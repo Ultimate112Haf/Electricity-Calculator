@@ -171,3 +171,40 @@ label {
     font: inherit;
     color: #fff;
 }
+
+r1 { /*unused*/
+    color: #ffffff; 
+    font-size: 24px; 
+    font-family: 'inter', serif; 
+    background-color: #FD98FB;
+    border: 15px solid #FD98FB;
+}
+
+/*addition-Gatau, Nemu aja dari searching sama cari-cari (agak copas dikit, hehe tapi udah di edit kok)*/
+
+.result-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+    text-align: left;
+    border-top: 20px solid #CCE59D;
+  }
+  
+  .result-container h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .result-container p {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .result-container p strong {
+    color: #000;
+  }
